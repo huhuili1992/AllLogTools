@@ -1,0 +1,27 @@
+{
+  "osImei" : "4749A3EA-7D40-4163-AD8E-9857E38351A4",
+  "osType" : "ios",
+  "content" : "### Auto Triggerd By IM Task ###",
+  "deviceId" : "",
+  "deviceType" : 0,
+  "osVersion" : "15.3.1",
+  "feedbackInfoUrl" : "",
+  "id" : "1CE2C46C-59A8-42CA-8221-D1743B1C5C9A",
+  "firmwareLogUrl" : "",
+  "productId" : "glazero",
+  "osModel" : "iPhone 8",
+  "osBrand" : "apple",
+  "appId" : "com.glazero.ios",
+  "appLogUrl" : "https:\/\/d1fp3ynbqtcz3d.cloudfront.net\/glazero\/feedback\/61a86a5b7594830010f14d74\/b1d91ca7d2cb42dc183d251f194f5ca9.zip?Expires=1652670553&Signature=FrjGqu0nbDeYLVnHU~T0T1dfr6Sv9u9g6ES9qvh5-cha8yHk1RN3BQY643yeey3rxPlVU4~W8CuyqaPrbv57E-VNRVhSudAikl4QX0Re3eufiya1WzCBqz613R1mPYGDtC~TOTDtvmq0eb8RrgXRb3HgFte9S2e-X7SJWyCCgTgX7nHSSuT0V58TetL73bTo3xas4CPkVMhEczobe9oTIFwlMzFpfzkVyq8I8SGCWGIMlhgzZpQ4qbssbthv8Epfii6YSskDmUjHJtfM4y0RCbffUqlvcdQ9ZJhCGPZn7eqmOzr1nnO~R6jOYghSvqvpsJRGmERB89ypNhbzdrlwPw__&Key-Pair-Id=K3B9177E8G8BY0",
+  "lang" : "US",
+  "uid" : "61a86a5b7594830010f14d74",
+  "type" : 4,
+  "homeId" : 56812832,
+  "deviceName" : "",
+  "firmwareVersion" : "",
+  "email" : "maintainbeauty@gmail.com",
+  "images" : [
+
+  ],
+  "appVersion" : "1.3.0"
+}

@@ -1,0 +1,23 @@
+{
+  "appId": "com.glazero.android",
+  "appLogUrl": "https://d1fp3ynbqtcz3d.cloudfront.net/glazero/feedback/6255b14423456c000f79e4dd/e6118a9b595e11566131c6646e842e24.zip?Expires\u003d1652477866\u0026Signature\u003dQzpJFPSO9-mEPSGgee1aQqr8qzDflc5vf5CnV3LQNHi0JB1B31RULJChG0YtHQZwSTD4CNYQMWyiRVz4u81fwSDEw3bbEfFKg6ZYtZqeapxI6OSSd-Nno3KBtMp-BMozvO8tS0hkESlPSihay6gISQmauWQgQT0VtpVJ9sxri4i2GrJ6zSXQ58nMHwWbA2-lsGelrMp6rOgfL9TD1QjGmTXf3tk6iBL506nTKZC~xq9N7P7OMkcwNrOkxyjneKbo2Wv1Gb5WzCA0n67sYoLOZiokeZZoAE95hs4Zw9jDXj46kMIYWuUjyiDQbP2IzvNgCdFFFQp8j-8eH6phLjfQyA__\u0026Key-Pair-Id\u003dK3B9177E8G8BY0",
+  "appVersion": "1.3.0",
+  "content": "Upload auto",
+  "deviceId": "",
+  "deviceName": "Others",
+  "deviceType": 0,
+  "email": "joyalmilan@gmail.com",
+  "firmwareVersion": "",
+  "homeId": 0,
+  "id": "96acf6e0-a1e6-407d-aa84-7d6b20380672",
+  "images": [],
+  "lang": "en",
+  "osBrand": "OnePlus",
+  "osImei": "4e4f280545076f12",
+  "osModel": "HD1913",
+  "osType": "android",
+  "osVersion": "30",
+  "productId": "glazero",
+  "type": "IM_TASK",
+  "uid": "6255b14423456c000f79e4dd"
+}
